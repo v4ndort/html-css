@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(39, 35, 35);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+p {
+    color: #ffffff;
+
+}
+
+.campvid{
+   position: relative;
+   left: 25em;
+   top: 5em;
+   padding: 5px;
+    
+}
+    
